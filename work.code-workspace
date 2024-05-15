@@ -7,7 +7,7 @@
 	"settings": {},
 	"extensions": {
 		"recommendations": [
-			"redhat.vscode-openshift-extension-pack"
+
 		]
 	}
 }
